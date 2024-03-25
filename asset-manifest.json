@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AlfaridzaHamdani/password-generator/static/css/main.2ff8e7a1.css",
-    "main.js": "/AlfaridzaHamdani/password-generator/static/js/main.f0c6edcf.js",
-    "index.html": "/AlfaridzaHamdani/password-generator/index.html",
-    "main.2ff8e7a1.css.map": "/AlfaridzaHamdani/password-generator/static/css/main.2ff8e7a1.css.map",
-    "main.f0c6edcf.js.map": "/AlfaridzaHamdani/password-generator/static/js/main.f0c6edcf.js.map"
+    "main.css": "/password-generator/static/css/main.2ff8e7a1.css",
+    "main.js": "/password-generator/static/js/main.f0c6edcf.js",
+    "index.html": "/password-generator/index.html",
+    "main.2ff8e7a1.css.map": "/password-generator/static/css/main.2ff8e7a1.css.map",
+    "main.f0c6edcf.js.map": "/password-generator/static/js/main.f0c6edcf.js.map"
   },
   "entrypoints": [
     "static/css/main.2ff8e7a1.css",
